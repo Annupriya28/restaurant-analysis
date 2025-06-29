@@ -45,7 +45,7 @@ streamlit run app.py
 
 🔗 Access the live dashboard here:
 
-https://restaurant-dashboard-annupriya28.streamlit.app
+https://restaurant-analysis-annupriya28.streamlit.app/
 
 
 🧹 Dataset Details
