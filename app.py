@@ -5,7 +5,8 @@ import matplotlib.pyplot as plt
 
 # Load Data
 
-df = pd.read_csv(r"C:\Users\annup\OneDrive\Desktop\restaurant-analysis\cleaned_data\cleaned_zomato_data.csv")
+df = pd.read_csv("cleaned_data/cleaned_zomato_data.csv")
+
 
 # Clean column names
 df.columns = df.columns.str.lower().str.strip().str.replace(" ", "_")
